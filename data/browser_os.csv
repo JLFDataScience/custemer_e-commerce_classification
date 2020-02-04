@@ -1,0 +1,5000 @@
+ga:operatingSystem,ga:browser,tipo
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Chrome OS,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Macintosh,Mozilla,comprador
+Chrome OS,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Chrome OS,Mozilla,comprador
+Chrome OS,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+Chrome OS,Mozilla,comprador
+iOS,Internet Explorer,comprador
+iOS,Mozilla,no_comprador
+iOS,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Chrome OS,Internet Explorer,comprador
+Chrome OS,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Mozilla,no_comprador
+Chrome OS,Mozilla,comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Linux,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+Windows,Mozilla,comprador
+FreeBSD,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Mozilla,comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+iOS,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Macintosh,Mozilla,comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Mozilla,no_comprador
+Linux,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+Macintosh,Mozilla,comprador
+iOS,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Android,Internet Explorer,no_comprador
+Android,Mozilla,no_comprador
+Linux,Mozilla,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Linux,Mozilla,no_comprador
+Android,Internet Explorer,comprador
+Linux,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,comprador
+iOS,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+iOS,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Mozilla,comprador
+iOS,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Opera,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Opera,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Opera,no_comprador
+Windows,Chrome,comprador
+Linux,Opera,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Opera,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Opera,no_comprador
+Windows,Opera,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Opera,comprador
+Linux,Chrome,no_comprador
+Windows,Opera,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Linux,Chrome,no_comprador
+Windows,Opera,no_comprador
+Linux,Opera,no_comprador
+Linux,Opera,no_comprador
+Macintosh,Opera,no_comprador
+Windows,Chrome,no_comprador
+Linux,Opera,comprador
+FreeBSD,Opera,no_comprador
+Linux,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Linux,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Linux,Mozilla,comprador
+Android,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Mozilla,comprador
+Macintosh,Mozilla,no_comprador
+Linux,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+Linux,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Mozilla,comprador
+iOS,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+Windows,Mozilla,comprador
+Linux,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Windows,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Mozilla,comprador
+FreeBSD,Mozilla,no_comprador
+FreeBSD,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Linux,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+FreeBSD,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+Linux,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+FreeBSD,Mozilla,comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+iOS,Mozilla,comprador
+iOS,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+FreeBSD,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Macintosh,Mozilla,no_comprador
+FreeBSD,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Opera,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Opera,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Opera,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Opera,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Opera,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Opera,no_comprador
+Linux,Opera,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Opera,comprador
+iOS,Chrome,no_comprador
+Macintosh,Opera,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Opera,no_comprador
+FreeBSD,Opera,comprador
+Linux,Opera,no_comprador
+Windows,Opera,no_comprador
+Windows,Chrome,no_comprador
+Windows,Opera,comprador
+Macintosh,Opera,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Mozilla,comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+FreeBSD,Mozilla,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Linux,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+iOS,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Macintosh,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Linux,Internet Explorer,comprador
+Linux,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+,Internet Explorer,
+Windows,Internet Explorer,comprador
+Windows,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+iOS,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+iOS,Mozilla,no_comprador
+Linux,Mozilla,no_comprador
+iOS,Internet Explorer,no_comprador
+Chrome OS,Mozilla,no_comprador
+Linux,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,comprador
+Chrome OS,Mozilla,no_comprador
+Linux,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Mozilla,comprador
+Android,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Chrome OS,Mozilla,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Chrome OS,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Chrome OS,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Mozilla,comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Mozilla,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Chrome OS,Mozilla,no_comprador
+Chrome OS,Internet Explorer,comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Internet Explorer,no_comprador
+Chrome OS,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Macintosh,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Macintosh,Mozilla,comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Macintosh,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Macintosh,Mozilla,comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+FreeBSD,Mozilla,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+FreeBSD,Mozilla,no_comprador
+Macintosh,Internet Explorer,comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+iOS,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+Macintosh,Internet Explorer,comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Linux,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Mozilla,no_comprador
+iOS,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Mozilla,comprador
+iOS,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+Macintosh,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Linux,Internet Explorer,comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+Linux,Mozilla,comprador
+Linux,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Linux,Internet Explorer,no_comprador
+FreeBSD,Mozilla,no_comprador
+Macintosh,Internet Explorer,comprador
+Linux,Mozilla,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Mozilla,comprador
+Linux,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+Linux,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Internet Explorer,comprador
+FreeBSD,Mozilla,no_comprador
+Linux,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Linux,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Mozilla,comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+FreeBSD,Mozilla,no_comprador
+FreeBSD,Mozilla,no_comprador
+Macintosh,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Mozilla,comprador
+Macintosh,Mozilla,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+Macintosh,Mozilla,comprador
+FreeBSD,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Linux,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Mozilla,no_comprador
+FreeBSD,Mozilla,comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+iOS,Mozilla,comprador
+iOS,Internet Explorer,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Mozilla,comprador
+Macintosh,Internet Explorer,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Internet Explorer,no_comprador
+Macintosh,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Firefox,comprador
+FreeBSD,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Firefox,comprador
+FreeBSD,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Firefox,comprador
+FreeBSD,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Firefox,comprador
+,,
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Android,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows Phone,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Firefox,comprador
+FreeBSD,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Chrome,no_comprador
+Android,Chrome,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Android,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Android,Chrome,no_comprador
+Windows,Opera,no_comprador
+Windows,Chrome,no_comprador
+Android,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Linux,Opera,no_comprador
+,,
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Android,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+,,
+,,
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Android,Android Browser,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+,,
+Linux,Chrome,comprador
+Android,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Firefox,comprador
+FreeBSD,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Android,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Linux,Opera,comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Firefox,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,no_comprador
+Windows,Firefox,comprador
+Macintosh,Chrome,no_comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+,,
+Linux,Firefox,no_comprador
+Linux,Firefox,comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Opera,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Opera,no_comprador
+Windows,Firefox,comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Firefox,comprador
+FreeBSD,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Opera,no_comprador
+Linux,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+iOS,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Android,Firefox,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Opera,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Firefox,no_comprador
+Android,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Android,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows Phone,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Firefox,comprador
+FreeBSD,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Android,Firefox,no_comprador
+Linux,Opera,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Android,Opera,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows Phone,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Firefox,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+,,
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+iOS,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Firefox,no_comprador
+iOS,Safari,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Firefox,comprador
+FreeBSD,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Linux,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+iOS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,comprador
+Android,Android Browser,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Firefox,comprador
+FreeBSD,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Mozilla,comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Windows,Mozilla,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Mozilla,comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Mozilla,comprador
+Windows,Mozilla,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+,,
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Mozilla,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+iOS,Chrome,no_comprador
+Windows,Chrome,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Opera,comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Firefox,no_comprador
+Linux,Firefox,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Firefox,comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Firefox,no_comprador
+Android,Chrome,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Android,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,comprador
+Windows,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Android,Chrome,no_comprador
+Linux,Chrome,comprador
+Windows,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Linux,Chrome,no_comprador
+Linux,Firefox,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Opera,no_comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Opera,no_comprador
+iOS,Safari,comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Linux,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Android,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Chrome OS,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Mozilla,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Chrome OS,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Chrome OS,Chrome,no_comprador
+iOS,Safari,comprador
+iOS,Safari,no_comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,no_comprador
+Chrome OS,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+Macintosh,Safari,no_comprador
+Windows,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Chrome,no_comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Mozilla,no_comprador
+Macintosh,Safari,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Chrome,comprador
+Windows,Mozilla,no_comprador
+Linux,Firefox,no_comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Windows,Internet Explorer,comprador
+FreeBSD,Chrome,no_comprador
+FreeBSD,Firefox,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Chrome,comprador
+Windows,Mozilla,no_comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Firefox,no_comprador
+iOS,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Chrome,comprador
+FreeBSD,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Linux,Firefox,comprador
+Windows,Internet Explorer,no_comprador
+FreeBSD,Firefox,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Android,Android Browser,no_comprador
+Android,Android Browser,no_comprador
+Linux,Firefox,no_comprador
+Windows,Mozilla,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+Linux,Firefox,no_comprador
+Android,Android Browser,comprador
+Linux,Firefox,no_comprador
+Macintosh,Safari,no_comprador
+FreeBSD,Chrome,no_comprador
+iOS,Safari,no_comprador
+Linux,Firefox,no_comprador
+Windows,Internet Explorer,no_comprador
+iOS,Safari,comprador
+Windows,Internet Explorer,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,no_comprador
+Macintosh,Safari,comprador
+iOS,Safari,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Firefox,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Internet Explorer,comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Windows,Chrome,no_comprador
+Linux,Chrome,comprador
+Macintosh,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Linux,Firefox,no_comprador
+Windows,Mozilla,no_comprador
+Windows,Internet Explorer,no_comprador
+Linux,Chrome,no_comprador
+Linux,Chrome,comprador
+Linux,Chrome,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Firefox,no_comprador
+Windows,Chrome,comprador
+Linux,Firefox,no_comprador
+FreeBSD,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Macintosh,Chrome,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Internet Explorer,no_comprador
+Windows,Chrome,no_comprador
+Macintosh,Chrome,comprador
+Linux,Firefox,no_comprador
+Windows,Chrome,no_comprador
